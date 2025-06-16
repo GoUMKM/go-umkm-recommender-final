@@ -1,0 +1,12 @@
+server-inference/
+├── Dockerfile
+├── requirements.txt
+├── app/
+│   ├── __init__.py
+│   ├── app.py                  ◀️ FastAPI entry point
+│   ├── config.py               ◀️ Konfigurasi URL model, dsb.
+│   ├── schemas.py              ◀️ Pydantic request/response
+│   ├── database.py             ◀️ Connector database
+│   └── preprocessing.py        ◀️ Data cleaning dan merging
+├── artifacts/                  ◀️ Tempat file model saat runtime
+│   └── (kosong saat build)

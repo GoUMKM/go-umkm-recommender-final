@@ -1,0 +1,17 @@
+server-model/
+├── artifacts/                   # Output model dan preprocessor
+│   ├── similarity_model.h5
+│   └── preprocessor.joblib
+├── src/
+│   ├── data/
+│   │   ├── config.py
+│   │   ├── database.py
+│   │   └── preprocessing.py
+│   ├── models/
+│   │   ├── similarity_model.py
+│   │   └── train.py
+│   └── utils.py
+├── .env
+├── requirements.txt
+├── nginx.config
+├── Dockerfile

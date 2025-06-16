@@ -1,0 +1,1 @@
+Docker image dari artifacts di deploy menggunakan ECS Fargate dan dapat diakses melalui http://13.214.202.57/

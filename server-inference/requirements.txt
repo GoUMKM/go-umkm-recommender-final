@@ -1,0 +1,12 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+pymysql==1.0.3
+sqlalchemy==2.0.15
+pandas==2.0.2
+numpy==1.23.5
+scikit-learn==1.2.2
+python-dotenv==1.0.0
+python-multipart==0.0.6
+joblib==1.2.0
+tensorflow-cpu==2.12.0
+
