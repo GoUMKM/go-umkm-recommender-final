@@ -5,10 +5,7 @@ MODEL_URL="http://13.214.202.57/similarity_model.h5"
 PREPROCESSOR_URL="http://13.214.202.57/preprocessor.joblib"    
 
 ### Cek Koneksi server inference (api untuk request inference)    
-http://47.129.64.206:8000/health    
-
-### API URL untuk request recommendasi    
-http://47.129.64.206:8000/recommend    
+http://47.129.64.206:8000/health
 
 ### Aplikasi Streamlit untuk request recommendasi    
 https://github.com/orgs/GoUMKM/repositories    
