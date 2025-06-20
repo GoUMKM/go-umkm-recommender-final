@@ -8,6 +8,6 @@ PREPROCESSOR_URL="http://13.214.202.57/preprocessor.joblib"
 http://47.129.64.206:8000/health
 
 ### Aplikasi Streamlit untuk request recommendasi    
-https://github.com/orgs/GoUMKM/repositories    
+https://go-umkm-recommender.streamlit.app/    
 
 
